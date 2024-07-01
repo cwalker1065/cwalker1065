@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cwalker1065
 - 👀 I’m interested in ... travel, French, nerdy things, cats, and cooking!
 - 🌱 I’m currently learning ... how to be a great scrum master 
-- 💞️ I’m looking to collaborate on ... building new skills
+- 💞️ I’m looking to collaborate on ... building new skills, agile coaching, and fun ways to build trust within teams
 - 📫 How to reach me ... my VA email!
 
 <!---
